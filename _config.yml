@@ -1,0 +1,35 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: ZeroDay Podcast
+email: gc@gmail.com
+description: "The ZeroDay Podcast"
+subtitle: "A discussion from the intersection of CyberSecurity and Enterprise Architecture ."
+lang: en-us
+author: Gregory Coleman
+copyright: ""
+baseurl: "/zeroday-podcast" # the subpath of your site, e.g. /blog
+url: "https://gregorycoleman.github.io" # the base hostname & protocol for your site
+twitter_username: ZerodayNL
+github_username:  ZerodayNL
+
+permalink: /:year/:title.html
+
+#Timezone
+timezone: United States/New York
+
+#Setup for Pages
+include: ['_pages']
+
+# Build settings
+markdown: kramdown
+
+#Exclude local build settings
+exclude: ['readme.md', 'Gemfile.lock', 'Gemfile']
+
+theme: jekyll-theme-minimal
