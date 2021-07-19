@@ -1,8 +1,21 @@
 # The Zeroday Podcast
 
-Cras porta orci eget nisl imperdiet bibendum. Nulla non ipsum quis lorem congue placerat. Vestibulum rutrum commodo nunc. Suspendisse lobortis neque nisi, in lobortis urna convallis quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean lacinia ex felis, at vehicula ligula interdum vel. Maecenas nunc arcu, mollis eu posuere vel, facilisis quis quam. Vivamus libero nulla, euismod quis cursus in, malesuada vitae tortor. Aenean varius sodales dolor sit amet fermentum. <a href="https://zeroday.substack.com/">our website
+![ZeroDay Logo](images/ZeroDay-Podcast-Cover.png)
 
-https://wiobyrne.com/use-github-pages-jekyll-to-host-a-podcast/
-https://podnews.net/article/podcast-hosted-on-amazon-aws
-https://analytics.podtrac.com/how-to-get-demos
-https://podcasters.spotify.com/
+---
+##About
+---
+The ZeroDay podcast is the companion podcast to the Zeroday newsletter, a free weekly newsletter covering cybersecurity, cyberattacks, and cyber prevention. This is a podcast about CyberSecurity, the latest corporate cyberattacks attacks, and what you can do to protect your company from the latest cyberattacks. We will also discuss the latest hacks and the latest terminology you need to navigate the ever-changing landscape of cybersecurity. You can find the ZeroDay newsletter at (https://zeroday.substack.com/) our website and the podcast on Spotify and iTunes. Subscribe to the podcast and the newsletter as we will be bringing you news from the world of cybersecurity every week.
+
+---
+##Links
+---
+
+- [iTunes](https://podcasts.apple.com/us/podcast/zeroday-podcast/id1575913599)
+- [Spotify](https://open.spotify.com/show/5US5vNx1CYfMNqXkr1y8U3)
+- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncmVnb3J5Y29sZW1hbi5naXRodWIuaW8vemVyb2RheS1wb2RjYXN0L3BvZGNhc3QueG1s)
+
+
+---
+&copy; 2021 Gregory Coleman
+
