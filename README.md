@@ -2,13 +2,18 @@
 
 ![ZeroDay Logo](images/ZeroDay-Podcast-Cover.png)
 
----
-##About
----
-The ZeroDay podcast is the companion podcast to the Zeroday newsletter, a free weekly newsletter covering cybersecurity, cyberattacks, and cyber prevention. This is a podcast about CyberSecurity, the latest corporate cyberattacks attacks, and what you can do to protect your company from the latest cyberattacks. We will also discuss the latest hacks and the latest terminology you need to navigate the ever-changing landscape of cybersecurity. You can find the ZeroDay newsletter at (https://zeroday.substack.com/) our website and the podcast on Spotify and iTunes. Subscribe to the podcast and the newsletter as we will be bringing you news from the world of cybersecurity every week.
 
+## About
 ---
-##Links
+The ZeroDay podcast is the companion podcast to the Zeroday newsletter, a free weekly newsletter covering cybersecurity, cyberattacks, and cyber prevention. This is a podcast about CyberSecurity, the latest corporate cyberattacks attacks, and what you can do to protect your company from the latest cyberattacks. We will also discuss the latest hacks and the latest terminology you need to navigate the ever-changing landscape of cybersecurity. 
+
+
+## Newsletter
+---
+You can find the ZeroDay newsletter at [ZeroDay Newsletter](https://zeroday.substack.com/) our website and the podcast on Spotify , Google and iTunes. 
+
+
+## Links
 ---
 
 - [iTunes](https://podcasts.apple.com/us/podcast/zeroday-podcast/id1575913599)
