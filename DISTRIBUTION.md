@@ -15,11 +15,10 @@
 
 
 - Pocket Casts
-
+    - https://pca.st/gpko9bv6
 
 - RadioPublic
     - https://radiopublic.com/zeroday-podcast-WdDYjr
-
 
 - Spotify
     -  https://open.spotify.com/show/5US5vNx1CYfMNqXkr1y8U3
