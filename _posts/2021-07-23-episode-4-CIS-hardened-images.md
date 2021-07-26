@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are your Servers Hardened and How to Tell if You Are Compliant"
-date: 2021-07-17 10:13:29
+date: 2021-07-23 10:13:29
 file: https://dts.podtrac.com/redirect.mp3/archive.org/download/zeroday-podcast-CIS-hardening/zeroday-podcast-CIS-hardening.mp3
 summary: "Hardening Your Servers With CIS & DISA"
 description: ""
